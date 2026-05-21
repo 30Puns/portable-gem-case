@@ -12,7 +12,7 @@ NeoForge 1.21.1 addon for [Apotheosis](https://www.curseforge.com/minecraft/mc-m
 
 - Minecraft 1.21.1
 - NeoForge 21.1.x
-- Apotheosis 8.5.x (+ Placebo)
+- Apotheosis 8.5.x
 
 ## Development
 
