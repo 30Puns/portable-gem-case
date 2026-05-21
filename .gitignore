@@ -1,0 +1,26 @@
+# Gradle / build
+.gradle/
+build/
+out/
+
+# IDE / editor (do not publish)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+eclipse/
+.vscode/
+.cursor/
+
+# Local dev runs (worlds, logs, crashes)
+run/
+runs/
+*.log
+debug-*.log
+crash-reports/
+
+# OS
+.DS_Store
+Thumbs.db
